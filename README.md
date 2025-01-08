@@ -6,7 +6,6 @@
 # Assalamu Alaikum! 
 I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
 
----
 
 ## 📝 About Me 
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
@@ -17,7 +16,6 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
   - 💡 Exploring tools and frameworks to enhance my development skills and efficiency.  
   - 🔗 Aiming to become proficient in **full-stack web development** to deliver end-to-end solutions.
     
----
 
 <h2 align="left">🔨 Languages and Tools:</h2>
 
@@ -45,8 +43,6 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
----
-
 <h3 align="left">🌐 Social Links</h3>
 
 ###
@@ -58,9 +54,7 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
   </a>
 </div>
 
----
-
-<h3 align="left">🏆 My Stats</h3>
+<h3 align="left">📊 Github Stats</h3>
 
 ###
 
