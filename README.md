@@ -4,10 +4,14 @@
 
 ###
 # Assalamu Alaikum! 
+## Nabila Binta Akter
+### Frontend Developer
+
+## 📝 About Me
 I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
 
 
-## 📝 About Me 
+## 💡 My Vision  
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
   - 🚀 My focus is on continuous learning, building impactful user interfaces, and contributing meaningfully to innovative projects.  
   - 🌟 I'm currently exploring backend development with **Node.js**, **Express.js**, and **MongoDB**, gaining hands-on experience by working on real-world projects.
