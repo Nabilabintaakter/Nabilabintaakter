@@ -47,7 +47,7 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 
 ---
 
-<h3 align="left">Social Links</h3>
+<h3 align="left">🌐 Social Links</h3>
 
 ###
 
@@ -60,7 +60,7 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 
 ###
 
-<h3 align="left">My Stats</h3>
+<h3 align="left">🏆 My Stats</h3>
 
 ###
 
