@@ -3,11 +3,9 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** committed to
 
 ---
 
-## 🧕 About Me  
-- 🎓 I started my web development journey after graduating with a **BSc in Electrical and Electronics Engineering (EEE)**.  
-- 💻 I specialize in **HTML**, **CSS**, **Tailwind CSS**, **DaisyUI**, **JavaScript**, **React.js**, **Node.js**, **Express.js**, and **MongoDB**.  
-- 🌍 My goal is to pursue a **remote job** where I can contribute effectively to innovative projects while maintaining my **religious principles** and **full purdah**.  
-- 🤝 I strictly adhere to **Islamic guidelines**, ensuring that my work never conflicts with my beliefs. I focus on clean, professional designs that align with my values.  
+## About Me  
+I am a dedicated **Frontend Web Developer** 🖥️ who values professionalism, integrity, and creativity. As a practicing Muslimah, I ensure my work aligns with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
+
 
 ---
 
@@ -19,7 +17,7 @@ As a practicing Muslimah, I believe in delivering excellence with integrity.
 
 ---
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🔨 Languages and Tools:</h2>
 
 ###
 
