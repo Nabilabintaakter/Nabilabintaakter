@@ -53,10 +53,10 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://www.linkedin.com/in/nabila-binta-akter/" target="_blank">
-    <img src="https://www.linkedin.com/content/dam/me/aui/images/logos/LI-In-Bug.svg" alt="LinkedIn logo" width="52" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" width="52" height="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011463773064" target="_blank">
-    <img src="https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/hzXNKKsGzxK.png" alt="Facebook logo" width="52" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook logo" width="52" height="40" />
   </a>
 </div>
 
