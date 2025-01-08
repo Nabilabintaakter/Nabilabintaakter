@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="210" style="width:100%;" src="https://i.ibb.co/r3Ys51F/1667066192913.jpg" alt="Frontend Developer Banner" />
+  <img class="object-cover" height="210" style="width:100%;" src="https://i.ibb.co/r3Ys51F/1667066192913.jpg" alt="Frontend Developer Banner" />
 </div>
 
 ###
@@ -8,7 +8,7 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 
 ---
 
-## About Me 
+## 📝 About Me 
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
   - 🚀 My focus is on continuous learning, building impactful user interfaces, and contributing meaningfully to innovative projects.  
   - 🌟 I'm currently exploring backend development with **Node.js**, **Express.js**, and **MongoDB**.  
