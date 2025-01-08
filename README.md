@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Assalamu Alaikum!</h1>
 </div>
-<h6>  I'm <strong>Nabila Binta Akter</strong>, a passionate <strong>Frontend Web Developer</strong> 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.</h6>
+<h6>I'm <strong>Nabila Binta Akter</strong>, a passionate <strong>Frontend Web Developer</strong> 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.</h6>
 
 ## 💡 My Vision  
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
