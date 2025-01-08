@@ -1,13 +1,12 @@
 <div align="center">
   <img class="object-cover" height="210" style="width:100%;" src="https://i.ibb.co/r3Ys51F/1667066192913.jpg" alt="Frontend Developer Banner" />
 </div>
-
-###
-# Assalamu Alaikum! 
-## Nabila Binta Akter | ###Frontend Developer
+ 
+# Nabila Binta Akter 
+## Frontend Developer
 
 ## 📝 About Me
-I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
+# Assalamu Alaikum! I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
 
 
 ## 💡 My Vision  
