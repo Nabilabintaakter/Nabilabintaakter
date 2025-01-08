@@ -1,12 +1,13 @@
 <div align="center">
   <img class="object-cover" height="210" style="width:100%;" src="https://i.ibb.co/r3Ys51F/1667066192913.jpg" alt="Frontend Developer Banner" />
 </div>
- 
+
 <div align="center">
   <h1>Assalamu Alaikum!</h1>
+  <h2>I'm <strong>Nabila Binta Akter</strong>, a passionate <strong>Frontend Web Developer</strong> 🖥️</h2>
 </div>
 
-I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
+<p>I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.</p>
 
 ## 💡 My Vision  
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
