@@ -4,16 +4,19 @@
 
 ###
 # Assalamu Alaikum! 
-I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications who values professionalism, integrity, and creativity.  As a Muslimah, I ensure my work aligns with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
+I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ committed to building meaningful, user-friendly, and visually appealing web applications. As a Muslimah, I ensure my work doesn't conflict with Islamic principles and reflects my commitment to producing clean, meaningful, and impactful designs. My goal is to contribute to projects that respect my values while fostering innovation 🌟 and excellence 🚀.  
 
 ---
 
-## 💡 My Vision  
-I am committed to delivering excellence with integrity in every aspect of my work.  
-- **🔗 Work Ethic**: I uphold a disciplined and professional approach, ensuring the highest quality in every project I undertake.  
-- **🌸 Values-Driven**: I strive to work in an environment that respects and aligns with my personal principles and commitments.  
-- **🚀 Professional Growth**: With a focus on continuous learning and skill development, I am dedicated to contributing meaningfully to my team and achieving impactful results.  
-
+## About Me 
+  - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
+  - 🚀 My focus is on continuous learning, building impactful user interfaces, and contributing meaningfully to innovative projects.  
+  - 🌟 I'm currently exploring backend development with **Node.js**, **Express.js**, and **MongoDB**.  
+  - 🌱 Gaining hands-on experience by working on real-world projects.  
+  - 📚 Diving deeper into advanced **frontend** and **backend** technologies.  
+  - 💡 Exploring tools and frameworks to enhance my development skills and efficiency.  
+  - 🔗 Aiming to become proficient in **full-stack web development** to deliver end-to-end solutions.
+    
 ---
 
 <h2 align="left">🔨 Languages and Tools:</h2>
