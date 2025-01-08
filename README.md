@@ -10,8 +10,7 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 ## 📝 About Me 
   - 🌸 I strive to work in environments that align with my principles, ensuring respect for personal commitments and values.  
   - 🚀 My focus is on continuous learning, building impactful user interfaces, and contributing meaningfully to innovative projects.  
-  - 🌟 I'm currently exploring backend development with **Node.js**, **Express.js**, and **MongoDB**.  
-  - 🌱 Gaining hands-on experience by working on real-world projects.  
+  - 🌟 I'm currently exploring backend development with **Node.js**, **Express.js**, and **MongoDB**, gaining hands-on experience by working on real-world projects.
   - 📚 Diving deeper into advanced **frontend** and **backend** technologies.  
   - 💡 Exploring tools and frameworks to enhance my development skills and efficiency.  
   - 🔗 Aiming to become proficient in **full-stack web development** to deliver end-to-end solutions.
