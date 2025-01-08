@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width=[100%] src="https://i.ibb.co.com/r3Ys51F/1667066192913.jpg"  />
+  <img height="210" style="width:100%;" src="https://i.ibb.co/r3Ys51F/1667066192913.jpg" alt="Frontend Developer Banner" />
 </div>
 
 ###
@@ -9,10 +9,10 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
 ---
 
 ## 💡 My Vision  
-As a practicing Muslimah, I believe in delivering excellence with integrity.  
-- 🔗 **Work Ethic**: I maintain a disciplined, professional approach to my work, ensuring that every project meets high-quality standards.  
-- 🌸 **Religious Adherence**: I aim to work in an environment that respects and understands my religious commitments.  
-- 🚀 **Professionalism**: My technical skills and dedication are my strengths—I am determined to grow as a skilled developer and bring value to my team.
+I am committed to delivering excellence with integrity in every aspect of my work.  
+- **🔗 Work Ethic**: I uphold a disciplined and professional approach, ensuring the highest quality in every project I undertake.  
+- **🌸 Values-Driven**: I strive to work in an environment that respects and aligns with my personal principles and commitments.  
+- **🚀 Professional Growth**: With a focus on continuous learning and skill development, I am dedicated to contributing meaningfully to my team and achieving impactful results.  
 
 ---
 
