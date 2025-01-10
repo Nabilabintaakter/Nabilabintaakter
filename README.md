@@ -7,34 +7,6 @@
     <span class="typewriter">Assalamu Alaikum!</span>
   </h1>
 </div>
-
-<style>
-  .typewriter {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 2px solid black;
-    animation: typing 3s steps(20, end), blink 0.5s step-end infinite;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 16ch; /* Length of "Assalamu Alaikum!" */
-    }
-  }
-
-  @keyframes blink {
-    from {
-      border-color: transparent;
-    }
-    to {
-      border-color: black;
-    }
-  }
-</style>
 <div align="left">
     <h2><strong>Nabila Binta Akter</strong></h2>
     <h3><strong>Frontend Web Developer</strong></h3>
