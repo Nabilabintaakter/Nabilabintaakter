@@ -1,5 +1,5 @@
 <div align="center">
-  <img class="object-cover" height="210" style="width:100%;" src="https://i.ibb.co.com/b5hrQ7q3/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Frontend Developer Banner" />
+  <img class="object-cover" height="100%" style="width:100%;" src="https://i.ibb.co.com/b5hrQ7q3/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Frontend Developer Banner" />
 </div>
 
 <div align="center">
