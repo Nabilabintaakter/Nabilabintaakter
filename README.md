@@ -50,19 +50,6 @@ I'm **Nabila Binta Akter**, a passionate **Frontend Web Developer** 🖥️ comm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<h2 align="left">🌐 Social Links</h2>
-
-###
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://www.linkedin.com/in/nabila-binta-akter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" width="52" height="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100011463773064" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook logo" width="52" height="40" />
-  </a>
-</div>
-
 <h2 align="left">📊 Github Stats</h2>
 
 ###
